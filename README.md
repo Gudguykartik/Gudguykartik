@@ -14,7 +14,7 @@ MBA graduate specializing in Business Analytics, passionate about transforming d
 
 ### Professional Highlights 🌟
 - **Data Analyst Intern** - KultureHire (Jun 2023 - Aug 2023)
-- **ML Engineer - NLP** - Feynn Labs (Aug 24 - Current)
+- **ML Engineer Intern - NLP** - Feynn Labs (Aug 24 - Current)
 
 
 ### Tech Toolbox 🛠️
