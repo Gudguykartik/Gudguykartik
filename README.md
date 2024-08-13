@@ -1,37 +1,36 @@
-# 👋 Hello, I'm Sajal!
+# 👋 Hello, I'm Kartik!
 
-## 🚀 AI/ML Engineer focusing on applied AI
+## 🚀 Business Analytics Professional | Data Analyst
 
-📍 **Singapore**  
-📧 **Email:** [contact@sajalsharma.com](mailto:contact@sajalsharma.com)  
-🔗 **LinkedIn:** [sajals](https://linkedin.com/in/sajals)  
-👨‍💻 **GitHub:** [sajal2692](https://github.com/sajal2692)
+📍 **India**  
+📧 **Email:** [iamkartik.rana21@gmail.com](mailto:iamkartik.rana21@gmail.com)  
+🔗 **Portfolio Site:** [Kartik](in Progress)  
+👨‍💻 **GitHub:** [Gudguykartik](https://github.com/Gudguykartik)
 
 
 ### About Me 🌐
-Blending over 7 years of experience in ML, NLP, and Software Engineering, I transform data and language into impactful solutions and experiences.
+MBA graduate specializing in Business Analytics, passionate about transforming data into actionable insights. I thrive on challenges and enjoy both leading and contributing to high-level analytical projects.
 
 
 ### Professional Highlights 🌟
-- **AI Engineer** - Menyala, Singapore (2024 - Present)
-- **Lead AI Engineer** - OneByZero, Singapore (2023 - 2024)
-- **Senior AI Engineer** - Splore, Singapore (2023)
-- **ML Engineer - NLP** - Unscrambl, India (2017 - 2022)
+- **Data Analyst Intern** - KultureHire (Jun 2023 - Aug 2023)
+- **ML Engineer - NLP** - Feynn Labs (Aug 24 - Current)
 
 
 ### Tech Toolbox 🛠️
-- **Languages:** Python, SQL, JavaScript, Ruby
-- **Frameworks & Libraries:** PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
-- **Tools:** AWS, GCP, Docker, Git
-- **Specialties:** LLMs, Generative AI, NLP, Search
+- **Languages:** Python, SQL, R, Javascript
+- **Frameworks & Libraries:** PyTorch, TensorFlow, YOLO, Huggingface, SpaCy
+- **Visualization:** Tableau, Power BI, Excel
+- **Specialties:** Statistical Analysis, Predictive Modeling, Time Series Analysis, A/B Testing
+
 
 ### Education 🎓
-- **Masters in IT**, The University of Melbourne
-- **Bachelors in Computer Applications**, Bhartiya Vidyapeeth University
+- **Masters in Business Administration:** *Major in Business Analytics*  Jaipuria Institute Of Management
+- **Bachelors in Commerce Hons** *Major in Computer Applications* Delhi University
 
 ### Certifications 📜
-- **Coursera:** Deep Learning, Machine Learning, Mathematics for ML Specializations
-- **Udacity:** NLP, ML, React Nanodegrees
+- **Coursera:** Google Data Analytics, Deep Learning, Machine Learning, Mathematics for ML Specializations
+- **Udemy:** R, Excel
 
-🔗 Let's ideate, innovate, and build cool expericnes with AI. Reach out for collaborations or simply to chat!
+🔗 Let's ideate, innovate, and build cool expericnes. Reach out for collaborations or simply to chat!
 
