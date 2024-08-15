@@ -4,7 +4,7 @@
 
 📍 **India**  
 📧 **Email:** [iamkartik.rana21@gmail.com](mailto:iamkartik.rana21@gmail.com)  
-🔗 **Portfolio Site:** [Kartik](https://github.com/Gudguykartik/portfolio)  
+🔗 **Portfolio Site:** [Kartik](https://gudguykartik.github.io/Website-kartik/)  
 👨‍💻 **GitHub:** [Gudguykartik](https://github.com/Gudguykartik)
 
 
